@@ -5,7 +5,6 @@ import com.example.restservice.model.Employee;
 import com.example.restservice.service.EmployeeService;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @RestController
